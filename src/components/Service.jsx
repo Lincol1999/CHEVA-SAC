@@ -61,7 +61,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                 >
                     <a >
-                        <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/saneamiento/1.png" alt="" />
+                        <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/saneamiento/1.png" alt="" />
                     </a>
                     <div className="p-5 ">
                         <a >
@@ -85,7 +85,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                 >
                     <a >
-                        <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/saneamiento/2.png" alt="" />
+                        <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/saneamiento/2.png" alt="" />
                     </a>
                     <div className="p-4">
                         <a >
@@ -108,7 +108,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                 >
                     <a >
-                        <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/saneamiento/3.png" alt="" />
+                        <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/saneamiento/3.png" alt="" />
                     </a>
                     <div className="p-5 ">
                         <a >
@@ -166,7 +166,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                         >
                             <a >
-                                <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/seguridad/1.png" alt="" style={{ height: '400px' }} />
+                                <img className="rounded-t-lg w-full h-auto" src="././src/assets/carousel/seguridad/1.png" alt="" style={{ height: '400px' }} />
                             </a>
                             <div className="p-5 ">
                                 <a >
@@ -197,7 +197,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                         >
                             <a >
-                                <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/seguridad/3.png" alt="" style={{ height: '400px' }} />
+                                <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/seguridad/3.png" alt="" style={{ height: '400px' }} />
                             </a>
                             <div className="p-4">
                                 <a >
@@ -238,7 +238,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                         >
                             <a >
-                                <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/seguridad/5.png" alt="" style={{ height: '400px' }} />
+                                <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/seguridad/5.png" alt="" style={{ height: '400px' }} />
                             </a>
                             <div className="p-5 ">
                                 <a >
@@ -289,7 +289,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                         >
                             <a >
-                                <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/mantenimiento/1.png" alt="" />
+                                <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/mantenimiento/1.png" alt="" />
                             </a>
                             <div className="p-5 ">
                                 <a >
@@ -321,7 +321,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                         >
                             <a >
-                                <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/mantenimiento/2.png" alt="" style={{ height: '300px' }} />
+                                <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/mantenimiento/2.png" alt="" style={{ height: '300px' }} />
                             </a>
                             <div className="p-4">
                                 <a >
@@ -349,7 +349,7 @@ export const Service = () => {
                     cursor-pointer hover:-translate-y-5 hover:border-b-4 hover:border-gray-400 transition-all duration-300 mx-auto"
                         >
                             <a >
-                                <img className="rounded-t-lg w-full h-auto" src="src/assets/carousel/mantenimiento/3.png" alt="" style={{ height: '300px' }} />
+                                <img className="rounded-t-lg w-full h-auto" src="./src/assets/carousel/mantenimiento/3.png" alt="" style={{ height: '300px' }} />
                             </a>
                             <div className="p-5 ">
                                 <a >

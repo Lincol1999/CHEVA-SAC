@@ -8,20 +8,20 @@ import 'slick-carousel/slick/slick-theme.css';
 export const Clientes = () => {
 
     const imagenesPequenas = [
-        '/src/assets/clientes/BOSQUES DE CALANGO.png',
-        '/src/assets/clientes/BUONAVISTA.png',
-        '/src/assets/clientes/CHECSAC.png',
-        '/src/assets/clientes/CONCAR.png',
-        '/src/assets/clientes/CONSORCIO DEL NORTE.png',
-        '/src/assets/clientes/COSCO SHIPPING.png',
-        '/src/assets/clientes/CREC10.png',
-        '/src/assets/clientes/FAMESA.png',
-        '/src/assets/clientes/HCHANCAY.png',
-        '/src/assets/clientes/NORVIAL.png',
-        '/src/assets/clientes/PELAYO.png',
-        '/src/assets/clientes/SMART NETWORK.png',
-        '/src/assets/clientes/MANPERAN.png',
-        '/src/assets/clientes/TRANSMARINA.png',
+        './src/assets/clientes/BOSQUES DE CALANGO.png',
+        './src/assets/clientes/BUONAVISTA.png',
+        './src/assets/clientes/CHECSAC.png',
+        './src/assets/clientes/CONCAR.png',
+        './src/assets/clientes/CONSORCIO DEL NORTE.png',
+        './src/assets/clientes/COSCO SHIPPING.png',
+        './src/assets/clientes/CREC10.png',
+        './src/assets/clientes/FAMESA.png',
+        './src/assets/clientes/HCHANCAY.png',
+        './src/assets/clientes/NORVIAL.png',
+        './src/assets/clientes/PELAYO.png',
+        './src/assets/clientes/SMART NETWORK.png',
+        './src/assets/clientes/MANPERAN.png',
+        './src/assets/clientes/TRANSMARINA.png',
     ];
 
     const sliderRef = useRef(null);

@@ -58,25 +58,25 @@ export const About = () => {
     }, []);
 
     const imagenesQuienesSomos = [
-        '/src/assets/carousel/somos/1.png',
-        '/src/assets/carousel/somos/2.png',
-        '/src/assets/carousel/somos/3.png',
-        '/src/assets/carousel/somos/4.png',
-        '/src/assets/carousel/somos/5.png',
+        './src/assets/carousel/somos/1.png',
+        './src/assets/carousel/somos/2.png',
+        './src/assets/carousel/somos/3.png',
+        './src/assets/carousel/somos/4.png',
+        './src/assets/carousel/somos/5.png',
     ];
     const imagenesMision = [
-        '/src/assets/carousel/mision/1.png',
-        '/src/assets/carousel/mision/2.png',
-        '/src/assets/carousel/mision/3.png',
-        '/src/assets/carousel/mision/4.png',
-        '/src/assets/carousel/mision/5.png',
+        './src/assets/carousel/mision/1.png',
+        './src/assets/carousel/mision/2.png',
+        './src/assets/carousel/mision/3.png',
+        './src/assets/carousel/mision/4.png',
+        './src/assets/carousel/mision/5.png',
     ];
     const imagenesVision = [
-        '/src/assets/carousel/vision/1.png',
-        '/src/assets/carousel/vision/2.png',
-        '/src/assets/carousel/vision/3.png',
-        '/src/assets/carousel/vision/4.png',
-        '/src/assets/carousel/vision/5.png',
+        './src/assets/carousel/vision/1.png',
+        './src/assets/carousel/vision/2.png',
+        './src/assets/carousel/vision/3.png',
+        './src/assets/carousel/vision/4.png',
+        './src/assets/carousel/vision/5.png',
     ];
 
 

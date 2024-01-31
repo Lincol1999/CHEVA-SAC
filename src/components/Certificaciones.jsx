@@ -11,25 +11,25 @@ export const Certificaciones = () => {
                 {/* Company Logo */}
                 <div className="my-12 flex flex-wrap justify-center items-center gap-8">
                     <div className="max-w-full">
-                        <img className="max-w-full h-auto" src="/src/assets/certificados/LOGO-ARS-9001.png" alt="" />
+                        <img className="max-w-full h-auto" src=".src/assets/certificados/LOGO-ARS-9001.png" alt="" />
                     </div>
                     <div className="max-w-full">
-                        <img className="max-w-full h-auto" src="/src/assets/certificados/LOGO-IAF.png" alt="" />
+                        <img className="max-w-full h-auto" src="./src/assets/certificados/LOGO-IAF.png" alt="" />
                     </div>
                     <div className="max-w-full">
-                        <img className="max-w-full h-auto" src="/src/assets/certificados/LOGO-RNP-OSCE.png" alt="" />
+                        <img className="max-w-full h-auto" src="./src/assets/certificados/LOGO-RNP-OSCE.png" alt="" />
                     </div>
                     <div className="max-w-full">
-                        <img className="max-w-full h-auto" src="/src/assets/certificados/LOGO-UAF.png" alt="" />
+                        <img className="max-w-full h-auto" src="./src/assets/certificados/LOGO-UAF.png" alt="" />
                     </div>
                     <div className="max-w-full">
-                        <img className="max-w-full h-auto" src="/src/assets/certificados/Marina-Guerra.png" alt="" />
+                        <img className="max-w-full h-auto" src="./src/assets/certificados/Marina-Guerra.png" alt="" />
                     </div>
                     <div className="max-w-full">
-                        <img className="max-w-full h-auto" src="/src/assets/certificados/MINISTERIO-DEL-TRABAJO.png" alt="" />
+                        <img className="max-w-full h-auto" src="./src/assets/certificados/MINISTERIO-DEL-TRABAJO.png" alt="" />
                     </div>
                     <div className="max-w-full">
-                        <img className="max-w-full h-auto" src="/src/assets/certificados/Ministerio-Salud.png" alt="" />
+                        <img className="max-w-full h-auto" src="./src/assets/certificados/Ministerio-Salud.png" alt="" />
                     </div>
 
                 </div>
